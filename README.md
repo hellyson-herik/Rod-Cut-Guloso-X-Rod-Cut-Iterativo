@@ -1,5 +1,5 @@
 # Projeto de análise de algoritmos.
-# Rod Cut Iterativo x Rod Cut Guloso
+## Rod Cut Iterativo x Rod Cut Guloso
 
 Neste Projeto você vai comparar dois algoritmos de otimização
 com o intuito de procurar e definir o melhor caminho a ser tomado
@@ -25,3 +25,5 @@ inteiro geral aleatoriamente tal que A[i] < n
 
 ## Com esses parâmentros o código faz:
 *	Rod Cut Iteraritivo comparado com Rod Cut Guloso
+
+Por: Hellyson Herik da Silva Costa e Talisson Freitas Avila
